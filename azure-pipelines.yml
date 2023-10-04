@@ -6,7 +6,8 @@
 trigger:
 - master
 
-pool: my-device
+pool: 
+name: my-device
 #pool:
   #vmImage: ubuntu-latest
 
